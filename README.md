@@ -1,4 +1,10 @@
 # fijkplayer_demo
+修改播放源后
+![8b01bd2e240b86056d8d2550097d75e](https://github.com/laizelin/fijkplayer_demo/assets/89433387/9de977e9-8043-40ca-82a0-d2d52e66726c)
+![10298a94e12fc4d8256f64cafcf91cb](https://github.com/laizelin/fijkplayer_demo/assets/89433387/80ab852e-9ca6-40d7-83b9-d12a8a80bb29)
+![444b406bbfb33b591aae0fb8379ae8b](https://github.com/laizelin/fijkplayer_demo/assets/89433387/a48290b9-0247-406f-8b5d-14c960467a8e)
+能行了
+
 失败了
 A new Flutter project.
 ![d85883588b492ca92354c2cd862e72d](https://github.com/laizelin/fijkplayer_demo/assets/89433387/b03b4681-840d-4673-80f3-16cc263adc99)
